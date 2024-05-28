@@ -1,4 +1,4 @@
-- 👋 Hiya! I'm @AquaLyth .
+- 👋 Wassup! I'm AquaLyth.
 - 🇵🇱 I am a Polish.
 - 💻 I worked for BTE Africa as a developer and now I am working in BTE Middle East.
   
